@@ -103,7 +103,7 @@ I believe in learning cybersecurity through hands-on practice, investigation, an
 
 ## Connect
 
-* LinkedIn: https://www.linkedin.com/in/pothurumurari/
+* LinkedIn: https://pothuru-murari-portfolio.vercel.app/
 * GitHub: https://github.com/Muraripothuru
 * Email: Murari.pothuru098@gmail.com
 
