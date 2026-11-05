@@ -99,11 +99,11 @@ I believe in learning cybersecurity through hands-on practice, investigation, an
 
 ## Portfolio
 
-🌐 **Live Portfolio:** https://muraripothuru.github.io/pothuru-murari-portfolio/
+🌐 **Live Portfolio:** https://pothuru-murari-portfolio.vercel.app/
 
 ## Connect
 
-* LinkedIn: https://pothuru-murari-portfolio.vercel.app/
+* LinkedIn: https://www.linkedin.com/in/pothurumurari/
 * GitHub: https://github.com/Muraripothuru
 * Email: Murari.pothuru098@gmail.com
 
